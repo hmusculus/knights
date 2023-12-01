@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"musculus"
+	],
+	"copyright": "Copyright (c) 2023 musculus",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "knights"
+}

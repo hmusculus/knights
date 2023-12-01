@@ -1,24 +1,16 @@
-# Compiled Object files
-*.o
-*.obj
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.a
-*.lib
-
-# Executables
-*.exe
-
-# DUB
 .dub
 docs.json
 __dummy.html
 docs/
-
-# Code coverage
+/knights
+knights.so
+knights.dylib
+knights.dll
+knights.a
+knights.lib
+knights-test-*
+*.exe
+*.pdb
+*.o
+*.obj
 *.lst
